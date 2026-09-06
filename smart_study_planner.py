@@ -6,7 +6,7 @@ analyse study sessions across different subjects over a semester.
 
 Data persists across runs in a plain-text file called 'study_log.txt'.
 
-Author: <Your Name>
+Author: JJAGWE JOHN VU-DIT-2603-2048-DAY
 """
 
 import os
